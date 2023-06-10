@@ -4,10 +4,17 @@
 - 💞️ I’m looking to collaborate on UI/UX Projects
 - 📫 How to reach me Hesam.uix@gmail.com
 
+
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,xd,html,css)](https://skillicons.dev)
 
+<br/>
+
+### contact me
+<p align="left">
+<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diorfunn" height="30" width="40" /></a>
+</p>
 
 <!---
 Hesamuix/Hesamuix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
