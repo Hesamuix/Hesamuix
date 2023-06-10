@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<a href="instagram.com/hesam_uix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="" height="30" width="40" /></a>
+<a href="instagram.com/hesam_uix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/https://skillicons.dev/icons?i=figma" alt="" height="30" width="40" /></a>
 </p>
 
 <!---
