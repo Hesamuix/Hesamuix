@@ -13,11 +13,11 @@
 
 ### contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <p align="left">
-<a href="instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" /></a>
+<a href="https://instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <!---
