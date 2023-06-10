@@ -10,7 +10,7 @@
 
 ### contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/"  target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin", href="https://instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/" style="margin: 0 1rem;" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin", href="https://instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <!---
