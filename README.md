@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<a href="instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=figma" alt="" height="30" width="40" /></a>
+<a href="instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
 </p>
 
 <!---
