@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Hesamuix
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on UI/UX Projects
-- 📫 How to reach me Hesam.uix@gmail.com
+- 🎨 a graphic designer who's interested in UI/UX Design
 
 
 <br/>
@@ -13,7 +10,7 @@
 
 ### contact me
 <p align="left">
-<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/" </pre>‌‌‌‌ ‌. ‌ ‌</pre> target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin", href="https://instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/hesam-saleki-81039b240/"  target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin", href="https://instagram.com/hesam_uix" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 <!---
