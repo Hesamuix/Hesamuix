@@ -6,7 +6,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,xd,InDesign,word,powerpoint,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,xd)](https://skillicons.dev)
 
 
 <!---
